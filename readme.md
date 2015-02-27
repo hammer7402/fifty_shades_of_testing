@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hammer7402/fifty_shades_of_testing.svg?branch=master)](https://travis-ci.org/hammer7402/fifty_shades_of_testing)
+
 # Continuous Integration with Travis CI
 
 Travis CI allows us to run tests on our builds everytime we push to github. This
@@ -99,4 +101,3 @@ Can you create a jasmine spec to validate your form on the client side?
 
 {}
 
-[![Build Status](https://travis-ci.org/hammer7402/fifty_shades_of_testing.svg?branch=master)](https://travis-ci.org/hammer7402/fifty_shades_of_testing)
