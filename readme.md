@@ -98,3 +98,5 @@ https://github.com/searls/jasmine-rails
 Can you create a jasmine spec to validate your form on the client side?
 
 {}
+
+[![Build Status](https://travis-ci.org/hammer7402/fifty_shades_of_testing.svg?branch=master)](https://travis-ci.org/hammer7402/fifty_shades_of_testing)
